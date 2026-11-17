@@ -542,6 +542,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://store.xiu.ai/en/ai-ip/](https://store.xiu.ai/en/ai-ip/) : XiuStore AI IP Check compares the exit IPs seen by ChatGPT, Claude, Grok, Perplexity, and Cloudflare, with a separate WebRTC check. Free to use without signing in. :free:
 * [https://subskills.xyz](https://subskills.xyz/) : Free sports technique videos from YouTube, TikTok and Instagram, sorted by sport, sub-skill and level.
 * [https://stayput.dev](https://stayput.dev/) : Free file tools that run in your browser: convert HEIC photos, compress images and PDFs, merge PDFs, trim video. Your files are not uploaded. :free:
+* [https://www.stackscan.com](https://www.stackscan.com/) : See what any website is built on, from its CMS and hosting to its analytics tools, or find the sites that run a given technology.
 
 ## T :
 * [https://threshinggame.space](https://threshinggame.space/) : Wingbound is an original five-choice dragon rider fan quiz with transparent scoring, replay and spoiler-free archetype results. Free without an account; independent of Dragonkind. :free:
